@@ -1,0 +1,13 @@
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\bin\Debug\Pizza-Desktop.exe.config
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\bin\Debug\Pizza-Desktop.exe
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\bin\Debug\Pizza-Desktop.pdb
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\bin\Debug\Guna.UI2.dll
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-Desktop.csproj.AssemblyReference.cache
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza_Desktop.Form1.resources
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza_Desktop.Form2.resources
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza_Desktop.Properties.Resources.resources
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-Desktop.csproj.GenerateResource.cache
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-Desktop.csproj.CoreCompileInputs.cache
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-De.D72FDECA.Up2Date
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-Desktop.exe
+F:\تاسيس ابو هدهود\كورس رقم 14 اساسيات سي شارب\Pizza-Desktop\obj\Debug\Pizza-Desktop.pdb
